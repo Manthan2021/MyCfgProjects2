@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans
+    xmlns="http://www.springframework.org/schema/beans" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:p="http://www.springframework.org/schema/p" 
+    xsi:schemaLocation="http://www.springframework.org/schema/beans 
+http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+<bean id="address1" class="com.coforge.training.springdemo.model.Address">
+       <property name="city" value="Gurgaon"/>
+       <property name="state" value="Haryana"/>
+       <property name="country" value="India"/>
+      <property name="pincode" value="789868" />
+    </bean>
+
+    <bean id="address2" class="com.coforge.training.springdemo.model.Address">
+       <property name="city" value="Zurich"/>
+       <property name="state" value="North-Central"/>
+       <property name="country" value="Switzerland"/>
+    <property name="pincode" value="458999" />
+    </bean>
+ 
+ <!-- creating object of trainee -->
+ <bean id="t1" class="com.coforge.training.springdemo.model.Trainee">
+          <property name="name" value="Rod Jhonson"/>
+       <property name="rollNo" value="BTech/07/06"/>
+       <property name="className" value="BTech"/>
+       <constructor-arg>
+        <list>
+           <ref bean="address1"/>
+         <ref bean="address2"/>
+        </list>
+       </constructor-arg>
+   </bean>
+
+</beans>

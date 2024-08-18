@@ -1,0 +1,12 @@
+
+n
+java:S18747";Remove this use of "NoOpPasswordEncoder"; it is deprecated.(å‰ö8ˆØõûÔ0HÇ9RMINORZ
+CODE_SMELL
+m
+java:S1161;":Add the "@Override" annotation above this method signature(È†‹8Êú–šÕ0HØ>RMAJORZ
+CODE_SMELL
+|
+java:S1874"DRemove this use of "WebSecurityConfigurerAdapter"; it is deprecated.(ÊªÄƒÿÿÿÿÿ8—°ãùÔ0HÆ9RMINORZ
+CODE_SMELL
+v
+java:S5344">Don't use the default "PasswordEncoder" relying on plain-text.(«Í£n8É‘úùÔ0HÅ9RCRITICALZVULNERABILITY

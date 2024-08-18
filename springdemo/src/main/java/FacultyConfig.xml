@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<beans
+    xmlns="http://www.springframework.org/schema/beans" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:p="http://www.springframework.org/schema/p" 
+    xsi:schemaLocation="http://www.springframework.org/schema/beans 
+http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+<!-- creating bean /object of Employee class -->
+<bean id="dept" class="com.coforge.training.springdemo.model.Department">
+
+
+<!-- invoke setter method setName() of Employee Class -->
+
+<!-- Property tag is responsible for setter injection -->
+<property name="deptName" value="Computer Science">
+</property>
+
+</bean>
+
+
+<bean id="f1" class="com.coforge.training.springdemo.model.Faculty" autowire="byName">
+
+
+<!-- invoke setter method setName() of Employee Class -->
+
+<!-- Property tag is responsible for setter injection -->
+<property name="fId" value="101">
+</property>
+<property name="fName" value="Harry Styles">
+</property>
+<!-- <property name="dept" ref="d1"> Explicit object injection
+</property> -->
+
+
+</bean>
+
+
+</beans>

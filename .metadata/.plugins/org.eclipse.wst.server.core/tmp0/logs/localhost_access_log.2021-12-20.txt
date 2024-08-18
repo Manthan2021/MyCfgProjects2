@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [20/Dec/2021:03:44:31 +0000] "GET /springmvc-erm/ HTTP/1.1" 200 249
+0:0:0:0:0:0:0:1 - - [20/Dec/2021:03:44:34 +0000] "GET /springmvc-erm/employee/showform HTTP/1.1" 200 2389
+0:0:0:0:0:0:0:1 - - [20/Dec/2021:03:44:34 +0000] "GET /springmvc-erm/resources/css/bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Dec/2021:03:44:34 +0000] "GET /springmvc-erm/resources/css/style1.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Dec/2021:03:44:34 +0000] "GET /springmvc-erm/resources/js/jquery-3.6.0.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Dec/2021:03:44:34 +0000] "GET /springmvc-erm/resources/js/bootstrap.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Dec/2021:03:44:34 +0000] "GET /springmvc-erm/resources/images/back5.jfif HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Dec/2021:03:45:20 +0000] "POST /springmvc-erm/employee/saveEmployee HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Dec/2021:03:45:21 +0000] "GET /springmvc-erm/employee/list HTTP/1.1" 200 4555
+0:0:0:0:0:0:0:1 - - [20/Dec/2021:03:45:21 +0000] "GET /springmvc-erm/resources/images/coforge2.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Dec/2021:03:45:21 +0000] "GET /springmvc-erm/resources/images/img1.webp HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Dec/2021:03:45:29 +0000] "GET /springmvc-erm/employee/updateForm?employeeId=1 HTTP/1.1" 200 2434
+0:0:0:0:0:0:0:1 - - [20/Dec/2021:03:46:38 +0000] "POST /springmvc-erm/employee/saveEmployee HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Dec/2021:03:46:38 +0000] "GET /springmvc-erm/employee/list HTTP/1.1" 200 4539
+0:0:0:0:0:0:0:1 - - [20/Dec/2021:03:46:49 +0000] "GET /springmvc-erm/employee/delete?employeeId=1 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Dec/2021:03:46:49 +0000] "GET /springmvc-erm/employee/list HTTP/1.1" 200 4010

@@ -1,0 +1,20 @@
+
+‚
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8şÖúšÕ0HİFRMINORZ
+CODE_SMELL
+u
+java:S22590"DA "NullPointerException" could be thrown; "claims" is nullable here.(êë…âüÿÿÿÿ8æÏ“Õ0HßFRMAJORZBUG
+n	java:S125I"<This block of commented-out lines of code should be removed.(ı„Ğ²8åàø»Õ0HæFRMAJORZ
+CODE_SMELL
+s
+java:S1144Y";Remove this unused private "generateExpirationDate" method.(†òÄúúÿÿÿÿ8› ¹šÕ0HğFRMAJORZ
+CODE_SMELL
+g
+java:S3740f"/Provide the parametrized type for this generic.(Øû¥Åúÿÿÿÿ8› ¹šÕ0HòFRMAJORZ
+CODE_SMELL
+w
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(ˆà’ıûÿÿÿÿ8×š¹“Õ0HóFRMINORZBUG
+n	java:S125]"<This block of commented-out lines of code should be removed.(è’¯8› ¹šÕ0HôFRMAJORZ
+CODE_SMELL
+u
+java:S2259""DA "NullPointerException" could be thrown; "claims" is nullable here.(Á”–¬ùÿÿÿÿ8×š¹“Õ0H÷FRMAJORZBUG

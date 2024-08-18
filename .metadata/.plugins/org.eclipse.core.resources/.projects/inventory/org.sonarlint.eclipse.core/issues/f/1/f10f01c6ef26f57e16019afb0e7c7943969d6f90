@@ -1,0 +1,11 @@
+
+z
+java:S1192&"FDefine a constant instead of duplicating this literal "index" 3 times.(¦œû×ÿÿÿÿÿHÙ3RCRITICALZ
+CODE_SMELL
+u
+java:S1192M"FDefine a constant instead of duplicating this literal "login" 3 times.(Íý‡ÇHÝ3RCRITICALZ
+CODE_SMELL
+r
+java:S46843"@Replace this persistent entity with a simple POJO or DTO object.(¾ËÒªHá3RCRITICALZVULNERABILITY
+r
+java:S4684Q"@Replace this persistent entity with a simple POJO or DTO object.(¡ìÙ²Hâ3RCRITICALZVULNERABILITY

@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+D:\spring-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\445659452.index
+\springmvc-crm\src\main\resources
+D:\spring-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\497451273.index
+\HibernateAssignment\src\main\resources
+D:\spring-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1727934977.index
+\springmvc-erm\src\main\java
+D:\spring-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2269917743.index
+\springmvc-erm\src\main\resources
+D:\spring-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\12833297.index
+\HelloWorld\src\main\java
+D:\spring-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\358770902.index
+\inventory\src\main\java
+D:\spring-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2103753424.index
+\springweb2\src\main\resources
+D:\spring-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3595484868.index
+\springweb2\src\main\java
+D:\spring-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3499878336.index
+\HibernateAssignment\src\main\java
+D:\spring-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3503378475.index
+\springmvc-crm\src\main\java

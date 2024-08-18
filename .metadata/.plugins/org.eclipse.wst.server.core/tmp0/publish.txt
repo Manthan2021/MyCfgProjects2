@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Dec 19 15:30:00 GMT 2021
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Manthan.Bhagtani\\.m2\\repository\\org\\springframework\\spring-web\\5.2.4.RELEASE\\spring-web-5.2.4.RELEASE.jar=WEB-INF/lib/spring-web-5.2.4.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Manthan.Bhagtani\\.m2\\repository\\org\\springframework\\spring-web\\5.3.13\\spring-web-5.3.13.jar=WEB-INF/lib/spring-web-5.3.13.jar
